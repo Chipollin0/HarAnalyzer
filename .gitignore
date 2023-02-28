@@ -1,0 +1,6 @@
+HarAnalyzer/bin
+HarAnalyzer/obj
+HarAnalyzer.Tests/bin
+HarAnalyzer.Tests/obj
+.vs
+TestResults
